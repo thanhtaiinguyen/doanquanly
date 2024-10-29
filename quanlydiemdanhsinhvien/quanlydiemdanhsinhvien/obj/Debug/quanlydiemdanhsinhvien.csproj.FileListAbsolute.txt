@@ -1,0 +1,12 @@
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\bin\Debug\quanlydiemdanhsinhvien.exe.config
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\bin\Debug\quanlydiemdanhsinhvien.exe
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\bin\Debug\quanlydiemdanhsinhvien.pdb
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.csproj.AssemblyReference.cache
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.Form1.resources
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.Properties.Resources.resources
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.csproj.GenerateResource.cache
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.csproj.CoreCompileInputs.cache
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.exe
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.pdb
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.danhsachsinhviencamthi.resources
+D:\doan\quanlydiemdanhsinhvien\quanlydiemdanhsinhvien\obj\Debug\quanlydiemdanhsinhvien.quanlymonhoc.resources
